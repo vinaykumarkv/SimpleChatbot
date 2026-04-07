@@ -4,7 +4,7 @@ This is a full-stack AI Chatbot. It is built with Streamlit, LangChain, and Goog
 ## Features
 - **Conversational Memory:** The chatbot remembers previous interactions using ConversationBufferMemory.
 - **Few-Shot Prompting:** High-quality examples guide the chatbot to ensure technical depth and consistent branding.
-- **Modern Tech Stack:** The chatbot is integrated with Google's Gemini 1.5/2.0 models via LangChain.
+- **Modern Tech Stack:** The chatbot is integrated with Google's Gemini models via LangChain.
 - **Environment Management:** The chatbot handles secure API keys via python-dotenv.
 
 ## 🛠️ Tech Stack
